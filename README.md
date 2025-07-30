@@ -113,10 +113,4 @@ To start the frontend and backend servers:
 **Chat page**
 ![Real-time chat](https://drive.google.com/uc?export=download&id=1EtxAVmU6Wn3b0EMuTosbbWfnFLSSZgVG)
 
-## Contributing
 
-Contributions are welcome! Fork the repository and submit a pull request for any features or fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
